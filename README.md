@@ -74,13 +74,7 @@ pip install -r requirements.txt
 2. Open OBS → **Start Virtual Camera**
 3. BlurMeCam will automatically use OBS as its backend
 
-If needed, you can force the backend in code:
 
-```python
-cam = pyvirtualcam.Camera(
-    width=w, height=h, fps=30, backend='obs'
-)
-```
 
 ---
 
