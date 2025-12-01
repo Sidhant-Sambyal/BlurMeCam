@@ -37,7 +37,7 @@ Perfect for preventing unwanted recordings and protecting your identity online.
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/BlurMeCam.git
+git clone https://github.com/Sidhant-Sambyal/BlurMeCam.git
 cd BlurMeCam
 ```
 
